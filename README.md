@@ -16,6 +16,11 @@
 </ul>
 </div>
 
+## Banking Database ER Diagram
+
+![Banking ER Diagram](https://raw.githubusercontent.com/satish-1999/ETB/main/Banking_DB_page-0001.jpg)
+
+
 
 <div style="width: 70%; margin: 20px auto; padding: 10px; border: 1px solid #eee; background-color: #f9f9f9;">
     <p><strong>Project Description:</strong></p>
